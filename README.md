@@ -32,6 +32,7 @@ charlotte
 Let's point the script at it:
 
 ```bash
+$ uv sync
 $ python makemore.py -i names.txt -o names
 ```
 
